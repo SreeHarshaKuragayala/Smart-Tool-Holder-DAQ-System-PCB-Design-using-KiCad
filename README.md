@@ -1,16 +1,10 @@
-# Smart Tool Holder DAQ System – PCB Design Portfolio
+# Smart Tool Holder DAQ System – PCB Design
 
 <div align="center">
-
-**Industrial-Grade Data Acquisition PCB | Precision Analog Design | KiCad Engineering**
 
 [![KiCad](https://img.shields.io/badge/KiCad-7.0+-blue.svg)](https://www.kicad.org/)
 [![License](https://img.shields.io/badge/License-Portfolio-green.svg)](#license)
 [![Industry](https://img.shields.io/badge/Industry-Manufacturing-orange.svg)](#)
-
-*Designed by Sree Harsha Kuragayala*  
-*Graduate Apprentice (2025) • PCB Design & Embedded Hardware*  
-*Central Manufacturing Technology Institute (CMTI), Bangalore*
 
 </div>
 
