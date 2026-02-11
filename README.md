@@ -635,32 +635,6 @@ This project portfolio showcases proficiency in:
 
 ---
 
-## 📸 Design Screenshots
-
-### Schematic Capture
-
-<div align="center">
-<img src="images/schematic_overview.png" width="800" alt="Schematic Design">
-<p><em>Complete schematic showing analog conditioning, ADC interface, and power management</em></p>
-</div>
-
-### PCB Layout 3D Visualization
-
-<div align="center">
-<img src="images/3d_view_top.png" width="600" alt="3D View Top">
-<img src="images/3d_view_bottom.png" width="600" alt="3D View Bottom">
-<p><em>KiCad 3D viewer showing component placement and mechanical clearances</em></p>
-</div>
-
-### Layer Stackup Visualization
-
-<div align="center">
-<img src="images/layer_stackup.png" width="700" alt="Layer Stackup">
-<p><em>4-layer PCB configuration with signal, ground, and power plane distribution</em></p>
-</div>
-
----
-
 ## 🚀 Future Enhancements
 
 Potential design improvements for next revision:
