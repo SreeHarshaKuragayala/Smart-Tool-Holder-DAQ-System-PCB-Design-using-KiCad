@@ -72,7 +72,7 @@ The design underwent three major iterations, each addressing specific engineerin
 ### Version 1.0 — Initial Concept & Schematic Capture
 
 <div align="center">
-<img src="images/version1_overview.png" width="800" alt="Version 1 PCB Layout">
+    <img src="1.png" width="45%"> <img src="1_3D.png" width="45%">
 </div>
 
 **Focus Areas:**
@@ -91,7 +91,7 @@ The design underwent three major iterations, each addressing specific engineerin
 ### Version 2.0 — Routing Optimization & Signal Integrity
 
 <div align="center">
-<img src="images/version2_overview.png" width="800" alt="Version 2 PCB Layout">
+    <img src="2.png" width="45%"> <img src="2_3D.png" width="45%">
 </div>
 
 **Improvements Implemented:**
@@ -112,7 +112,7 @@ The design underwent three major iterations, each addressing specific engineerin
 ### Version 3.0 — Final Production Design
 
 <div align="center">
-<img src="images/version3_overview.png" width="800" alt="Version 3 Final PCB Layout">
+    <img src="3.png" width="45%"> <img src="3_3D.png" width="45%">
 </div>
 
 **Production-Ready Features:**
