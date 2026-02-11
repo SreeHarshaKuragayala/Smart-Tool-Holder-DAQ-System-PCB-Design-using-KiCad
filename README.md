@@ -72,7 +72,8 @@ The design underwent three major iterations, each addressing specific engineerin
 ### Version 1.0 — Initial Concept & Schematic Capture
 
 <div align="center">
-    <img src="1.png" width="45%"> <img src="1_3D.png" width="45%">
+    <img src="1.png" width="45%"> 
+    <img src="1_3D.png" width="45%">
 </div>
 
 **Focus Areas:**
